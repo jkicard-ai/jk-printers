@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JK Printers | Professional Printing Press</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">JK <span>PRINTERS</span></div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Professional Printing Services</h1>
+  <p>Quality Printing • Affordable Price • On-Time Delivery</p>
+  <a href="tel:9621024813" class="btn">Call Now</a>
+</section>
+
+<section class="about">
+  <h2>Welcome to JK Printers</h2>
+  <p>
+    JK Printers is a professional printing press providing high-quality
+    offset and digital printing solutions. We focus on clean finishing,
+    vibrant colors, and customer satisfaction.
+  </p>
+</section>
+
+<section class="services">
+  <h2>Our Services</h2>
+  <div class="service-box">
+    <ul>
+      <li>Flex & Banner Printing</li>
+      <li>Visiting Cards</li>
+      <li>Pamphlet & Flyer Printing</li>
+      <li>Poster & Sticker Printing</li>
+      <li>Letterhead & Envelope</li>
+      <li>Offset & Digital Printing</li>
+    </ul>
+  </div>
+</section>
+
+<section class="why">
+  <h2>Why Choose Us</h2>
+  <p>
+    ✔ Premium print quality <br>
+    ✔ Modern printing machines <br>
+    ✔ Affordable pricing <br>
+    ✔ Fast delivery
+  </p>
+</section>
+
+<footer>
+  <p>📍 Kasia, Kushinagar | 📞 9621024813 | ✉️ jkicard@gmail.com</p>
+</footer>
+
+</body>
+</html>
